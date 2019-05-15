@@ -8,6 +8,10 @@ yarn-error.log*
 # vim
 *.swp
 
+#build stuff
+build
+dist
+
 # Runtime data
 pids
 *.pid
