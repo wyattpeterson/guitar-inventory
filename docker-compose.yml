@@ -13,3 +13,7 @@ services:
     ports:
         - "8081:8081"
     command: "npm start"
+  database:
+    image: "mysql"
+    ports:
+        - "3306:3306"
