@@ -6,7 +6,7 @@ https://developer.okta.com/blog/2018/11/15/node-express-typescript
 
 
 
-* build node base image from hello stack
+* `docker build -t node-base docker/node`
 * `bin/npm install`
 * `docker-compose up`
 * `curl localhost:8081/`
