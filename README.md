@@ -11,4 +11,7 @@ Requires the node-base docker image built in hello stack.
 * `docker-compose run -e NODE_ENV=dev node npm install`
 * `docker-compose up`
 * `curl localhost:8081/`
-* hack
+
+
+Connect to MySQL
+* `docker-compose run database mysql -h database -u root -p`
