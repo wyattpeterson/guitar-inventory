@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/wpeterson328/guitar-inventory#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "mysql": "^2.17.1"
   },
   "devDependencies": {
